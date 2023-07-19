@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "workspace",
+			"path": ".."
+		},
+		{
+			"name": "CÓDIGO",
+			"path": "../../xampp/htdocs/CÓDIGO"
+		},
+		{
+			"path": "../../xampp/htdocs/Capitulo 16(xampp)"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "workspace"
+	}
+}
